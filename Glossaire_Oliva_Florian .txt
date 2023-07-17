@@ -1,0 +1,111 @@
+Général :
+
+1)Quel est l’environnement à installer pour exécuter un script PHP ? Citer 2 exemples de logiciels 
+permettant ce contexte : 
+ pour exécuter un script php on peut utiliser LARAGON,WAMP, XAMP 
+2) Qu’est-ce qu’un algorithme ? : Un algoritme est une suite d'instruction l
+
+*****************************************************************************************************************************************************************
+
+Front end :
+
+1) Définir HTML : HTML (Hypertext Markup Language) est un langage de programmation utilisé pour créer et structurer des pages Web en utilisant des balises pour définir le contenu et sa mise en forme.
+
+2) Définir CSS : CSS (Cascading Style Sheets) est un langage de programmation utilisé pour styliser et mettre en forme les éléments d'une page Web.
+
+3 Définir JavaScript : JavaScript est un langage de programmation utilisé pour rendre les pages Web interactives et dynamiques en permettant aux développeurs de manipuler le contenu HTML  et en réagissant aux actions de l'utilisateur
+
+4) Qu’est-ce que la portée d’une variable ? :
+
+5) Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ? :
+
+7) Quelle balise HTML permet de créer un lien hypertexte ? : j'utilise la balise <a> pour ancre, elle sera sous la forme suivante : <a href="https://Elan-formation.fr">Site Elan</a> .
+
+9) Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un 
+identifiant spécifique ? : On utilise le (#) pour une ID et un (.) pour cibler une class, suivis du nom qu'on lui a donné .
+
+10) Définir le responsive design : le responsive desing et la fait d'adapter notre page web à tous les types d'ecran, ( suivant sa dimension ) On utilise les media queries.
+
+14) Qu’est-ce qu’un « media query » : Les medias queries servent à modifier l'apparence d'un site pour qu'il puisse s'adapter à tous les types d'écrans, ( Format mobible, tablette, pc ect ....) on peut utiliser une max-width et une min-width pour que les changements s'effectuent à une certaine résolution (max-width 1000px definira la valeur maximale où la modification sera active) 
+
+
+15) Qu’est-ce qu’un pseudo élément en CSS ?
+
+
+UX / UI :
+
+1) Quelle est la différence entre UX Design et UI Design ? : l'UX ( User eXperience ) desing est la partie visible par l'utilisateur, il agit sur l'érgonomie et le contenu des pages alors que l'UI (User Inteface ) se focalise sur l'effet visuel et le rendu global de l'interface 
+
+2) Qu’est-ce qu’un wireframe ? : le wireframe ( maquette fonctionnelle ) est tout simplement une maquette qui servira à imager votre site ou votre application web (pour le présenter à un client par exemple). On pourra y intégrer votre UI et votre UX 
+
+3) Qu’est-ce qu’un prototype ? : c'est une représentation de très haute fidélité du site internet par rapport au rendu final. Plus simple et rapide à concevoir qu'un site internet, il permet au client de se faire une idée de son futur site internet rapidement tout en économisant de l'argent. 
+
+
+
+
+
+
+
+
+******************************************************************************************************************************************************************
+
+Programmation orientée objet (POO) :
+
+
+1) Donner une définition de la programmation orientée objet : La programmation orientée objet est une façon de coder où l'on regroupe des informations et des actions liées dans des boîtes appelées objets.
+
+2) Qu’est-ce qu’une classe ? Comment la déclare-t-on ? : Une classe est un modèle ou un plan pour créer des objets dans la programmation orientée objet. On la déclare en utilisant le mot-clé "class" suivi du nom de la classe et en définissant ses attributs et méthodes à l'intérieur des accolades.
+
+3) Qu’est-ce qu’un objet ? : Un objet en POO est une chose spécifique ayant des caractéristiques (attributs) et des actions (méthodes) qui lui sont propres, créée à partir d'une classe.
+
+4) 
+
+5) Qu’est-ce que la visibilité d’une propriété ou d’une méthode ?  La visibilité en programmation orientée objet (POO) définit la manière dont les propriétés et les méthodes d'une classe peuvent être accédées par d'autres parties du programme
+
+Citerles différentstypes de visibilité : Il y'a 3 types de visibilité , La Public qui est accessible n'importe où dans le programme, la Protégé qui est accessible dans la même classe et à partir de ses sous classses, et la Privé qui est accessible uniquement dans sa propre classe et ne peut pas être utilisé à l'exterieur de cette dernière.
+
+*******************************************************************************************************************************************************************
+
+Symfony
+
+1) Qu’est-ce que Symfony ? : Symfony est un framework de développement web open-source utilisé pour créer des applications web, il fournit des outils et des composants préfabriqués pour faciliter le processus de développement et favorise la réutilisation du code
+
+
+
+
+RGPD : 
+
+1) Qu’est-ce que le RGPD ? : Le RGPD (Règlement général sur la protection des données) est une loi européenne qui vise à protéger la vie privée des individus en régulant la collecte, le traitement et la gestion des données personnelles.
+
+2) Quel est son objectif principal ? :l'objecti principal de la RGPD est de garantir la protection des données personnelles des citoyens de l'Union européenne en imposant des règles strictes aux entreprises et aux organisations sur la      collecte, le traitement et la conservation de ces données.
+
+3) Quelle est la date d'entrée en vigeure de la RGPD ? : Signé en 2016 mais en vigueur depuis le 25 mai 2018.
+
+4) Quelles sont les sanctions possibles en cas de non-respect du RGPD ? : Il y'a différentes sanctions possibles,
+	. Une amende qui peut aller jusqu'à 20 millions d'euros ou bien s'élever à hauteur de 4% du chiffre d'affaire de la société
+	. Le risque de mettre en pause l'activité de la société prise la main dans le sac 
+	. Peut aller jusqu'à 5 ans de prison pour les dirigeants fautifs et 1,5 millions d'euros d'amande 
+	. Et l'une des sanction indirect est la réputation de la société qui est mise à mal 
+
+
+5) En France, quel est l’autorité administrative qui s’occupe de faire appliquer le RGPD ? : En France c'est la CNIL ( Commission national de l'inforamtion et des libertés ) qui s'occupe de faire appliquer le RGPD
+
+6) Quel est le consentement valide selon le RPGD ?
+
+7) Qu’est-ce qu’une politique de confidentialité ? : C'est un document / contrat les engagements de l'entreprise ( l'utilisateur peux retrouver les infos collectées par le site, l'usage fait de ses données, lerurs modalités de traitements  ou encore l'exercice de leurs droits )
+
+8) Quelle est la durée de conservation maximale des données personnelles selon le RGPD ? : La durée maximum de conservation des données est de deux ans selon la RGPD (Règlement général sur la protection des données) sauf si la demande d'effacement est demandée avant.
+
+9) Quels sont les droits des utilisateurs selon le RGPD ? : Les droits de l'utilisateurs sont les suivants 
+	
+	
+	. S'opposer à tout moment à ce qu'un organisme utilise certaines de ses données
+	. Obtenir et vérifier des données qu'une entreprise a sur elle 
+	. Modifier des informations inexcates le concerant 
+	. La déférencement ( du nom du prénom ect .... ) dans un moteur de recherche pour ne plus y apparaitre 
+	. Demander une intervention humaine pour pouvoir demander un avis humain à une intervention automatisée. 
+	.  
+
+10) Qu’est-ce que le principe de minimisation des données selon le RGPD ? : La minimisation des données oblige à ne pas demander des informations qui ne sont pas nécessaires ( suivant les besoins de la demande )
+
+
